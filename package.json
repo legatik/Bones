@@ -15,7 +15,7 @@
     "jquery": "~1.6.3",
     "optimist": "0.3.4",
     "mirror": "0.3.3",
-    "bones-mongodb": "https://github.com/sergeydt/bones-mongodb/tarball/oxhim"
+    "bones-mongodb": "https://github.com/legatik/bons-mongo/tarball/master"
   },
   "scripts": {
     "test": "mocha -R spec",
